@@ -1,11 +1,12 @@
 [project]
-name = "mia-nlp2"
+name = "tp1"
 version = "0.1.0"
 description = "Add your description here"
+readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "httpx>=0.28.1",
     "matplotlib>=3.10.8",
-    "pydantic>=2.12.5",
-    "torch>=2.10.0",
+    "pydantic>=2.13.3",
+    "torch>=2.11.0",
 ]
