@@ -5,7 +5,7 @@ Este trabajo presenta un chatbot simple implementando RAG sobre curriculums vita
 ![](nlp2-tp2-diagram.png)
 
 
-> ![NOTE]
+> [!NOTE]
 > Todas las órdenes de consola se asumen desde este directorio (i.e. `TP2`)
 
 ## Dependencias
@@ -31,3 +31,5 @@ El chatbot interactivo es una aplicación de Streamlit que se puede levantar loc
 ```bash
 uv run streamlit run app.py
 ```
+
+Una demo se encuentra disponible en [YouTube](https://youtu.be/tkSd-bhJzaE).
