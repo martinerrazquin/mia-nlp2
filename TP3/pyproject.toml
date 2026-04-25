@@ -3,4 +3,16 @@ name = "tp3"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "groq>=0.37.1",
+    "langchain>=1.2.15",
+    "langchain-community>=0.4.1",
+    "langchain-groq>=1.1.2",
+    "langchain-pinecone>=0.2.13",
+    "langchain-text-splitters>=1.1.2",
+    "langgraph>=1.1.9",
+    "pinecone>=7.3.0",
+    "pygraphviz>=1.14",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.56.0",
+]
